@@ -1,109 +1,152 @@
 # AI for Digital Transformation
 
-An open project exploring practical applications of Artificial Intelligence (AI) and digital technologies for public-sector work, digital transformation, training, knowledge sharing, and community use.
+An open project exploring practical applications of Artificial Intelligence (AI) to support digital transformation, public-sector work, professional productivity, training, knowledge sharing, and community use.
 
 ## Overview
 
-AI is developing rapidly, but many organizations and users still face a significant gap between access to AI technology and the ability to apply it effectively in real-world work.
+Artificial Intelligence is developing rapidly, creating new opportunities to improve how organizations and professionals work with information.
 
-This project focuses on bridging that gap.
+However, access to AI tools alone does not guarantee successful adoption.
 
-The project develops practical AI use cases, workflows, training resources, and reusable knowledge that can help public-sector organizations and communities adopt AI in a responsible, effective, and accessible way.
+Many organizations and professionals still face a practical gap between **having access to AI technology** and **knowing how to integrate AI effectively into real-world workflows**.
 
-## Objectives
+This project focuses on that practical gap.
+
+The project explores, tests, documents, and shares AI-assisted workflows that can be adapted to real professional and organizational tasks.
+
+---
+
+## Project Objectives
 
 The project has five main objectives:
 
-1. Improve productivity through practical AI applications.
-2. Support digital transformation in public-sector organizations.
-3. Develop reusable AI workflows for administrative and knowledge-based tasks.
-4. Provide practical AI training and knowledge-sharing resources.
-5. Identify and document successful AI use cases that can be replicated by other organizations.
+1. Develop practical AI-assisted workflows for real-world tasks.
+2. Support digital transformation through responsible AI adoption.
+3. Reduce repetitive information-processing work.
+4. Develop practical AI training and knowledge-sharing resources.
+5. Document successful experiments so they can be reused and adapted by others.
 
-## Key Areas
+---
 
-### 1. AI for Public-Sector Work
-
-Examples include:
-
-- Document drafting and analysis
-- Summarization
-- Information extraction
-- Data analysis
-- Report preparation
-- Knowledge management
-- Research assistance
-- Workflow automation
-
-### 2. Digital Transformation
-
-The project explores how AI can complement existing digital platforms and information systems.
-
-The focus is not simply on introducing AI technology, but on identifying practical workflows where AI can reduce repetitive work, improve information processing, and support better decision-making.
-
-### 3. AI Training
-
-The project develops practical learning materials for people with different levels of technical experience.
-
-Training emphasizes:
-
-- Practical use cases
-- Prompt engineering
-- AI-assisted workflows
-- Responsible AI use
-- Data and information security
-- Verification of AI-generated information
-
-### 4. Community Knowledge Sharing
-
-Successful use cases and lessons learned are documented so that they can be shared with other organizations, professionals, educators, and communities.
-
-## Project Impact
-
-The project addresses a practical gap in the current digital transformation ecosystem:
-
-> Many organizations have access to digital technologies, but lack practical, reusable methods for integrating AI into everyday work.
-
-By documenting workflows and use cases, the project aims to make AI adoption easier, more understandable, and more scalable.
+## Who the Project Serves
 
 The project is particularly relevant to:
 
-- Public-sector employees
+- Public-sector professionals
 - Digital transformation teams
 - Trainers and educators
-- Local organizations
+- Knowledge workers
+- Organizations exploring AI adoption
 - Small organizations with limited technical resources
-- Communities interested in practical AI adoption
+- Communities interested in practical AI applications
 
-## Use Cases
+The project is designed to make AI adoption more understandable and practical for users who may not have advanced technical backgrounds.
 
-Current areas of exploration include:
+---
 
-- AI-assisted administrative work
+## The Gap This Project Addresses
+
+A large amount of existing AI content falls into two categories:
+
+- Highly technical AI development resources.
+- General-purpose demonstrations of AI tools.
+
+There is a practical middle layer that is often missing.
+
+Organizations need to know:
+
+- Which real-world tasks are suitable for AI?
+- How should an AI-assisted workflow be designed?
+- How should AI-generated information be verified?
+- What are the limitations and risks?
+- Can the workflow actually save time or improve quality?
+- Can the workflow be reused by other people?
+
+This project focuses on answering those practical questions.
+
+---
+
+## Key Areas
+
+### AI-Assisted Public-Sector Work
+
+The project explores applications such as:
+
 - Document analysis
-- Report generation
+- Information extraction
+- Report preparation
+- Administrative knowledge processing
+- Research assistance
+- Knowledge management
+- Training and professional development
+
+### Document Intelligence
+
+AI can assist with:
+
+- Summarizing long documents
+- Extracting structured information
+- Comparing documents
+- Identifying requirements
+- Organizing unstructured information
+- Preparing structured working materials
+
+### AI Training
+
+The project develops practical learning resources covering:
+
+- AI fundamentals
+- Prompt design
+- AI-assisted workflows
+- Output verification
+- Responsible AI
+- Privacy and information security
+
+### Knowledge Management
+
+The project explores how AI can help transform information into reusable organizational knowledge.
+
+Potential applications include:
+
 - Knowledge extraction
-- Training material development
-- Data interpretation
-- Digital transformation support
-- AI-assisted research
-- Public-service workflow improvement
+- Classification
+- Summarization
+- Information organization
+- Search assistance
+- Knowledge-base development
 
-See [`docs/USE_CASES.md`](docs/USE_CASES.md) for more details.
+### AI-Assisted Research
 
-## How AI Is Used
+AI can support:
 
-AI is treated as an assistive technology rather than a replacement for professional judgment.
+- Research question development
+- Information organization
+- Document analysis
+- Comparative analysis
+- Summarization
+- Research workflow design
 
-Typical workflows follow this pattern:
+Important information is independently verified against reliable sources.
+
+---
+
+## How the Project Works
+
+The project follows a practical experimentation cycle:
 
 ```text
-Human defines the task
+Real-world problem
         ↓
-AI assists with analysis
+Identify where AI can help
         ↓
-Human verifies the output
+Design an AI-assisted workflow
         ↓
-AI helps refine the result
+Test the workflow
         ↓
-Human makes the final decision
+Human verification
+        ↓
+Evaluate usefulness
+        ↓
+Document the result
+        ↓
+Share and improve
